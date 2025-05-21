@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": "2025-05-11T20:11:02",
+    "raw_text": "@ Ai Screen Assistant Guide\n\n<oe\n\ngroqcloud\n\nMetrics\nUsage\nLogs\nBatch\n\nLimits\n\n2 Air: Severe\n\nTomorrow\n\n@ Groqctoud x\n\nQ  % console.groq.com/dashboard/metrics\n\n@ (1) WhatsApp\n\n@ sropchat\n\nPlayground\n\nB Excalidraw\n\neiPa\n\nAPI Keys Dashboard\n\nFilter by model\n\nDocumentation\n\n+ ve\n\na\n\non f0Gk%9\n\nMetrics\nHTTP Status Codes\n2\n15\n1\n0s\not\n5:39pm 5:46pm\nllama-3.3-70b-versatile\nRequests\nQ Search\n\ns4pm\n\n6:02pm\n\nTotal Tokens\n\nA 2 een\n\n6:09pm\n\n20:11\n11-05-2025,\n\n>\n\n’\n",
+    "cleaned_text": "Here is the extracted important information:\n\n* Metrics: \n  - HTTP Status Codes: 2, 15, 1\n  - Requests\n  - Total Tokens\n* Model: llama-3.3-70b-versatile\n* Timeframe: 5:39pm - 6:09pm\n* Date: 11-05-2025 \n* Limits: 2 Air: Severe (warning or alert)"
+  },
+  {
+    "timestamp": "2025-05-11T20:11:43",
+    "raw_text": "© AlScreen Assistant Guide @ GroqCloud @ (1) WhatsApp @® Snapchat B bxcalidraw x + vo- ao x\n<>°0e ) &% excalidraw.com a cla ons f0e8<¢989\nSUppOTL BOUN Grog + UpENAL (Ia EnV OF CCE Hags).\n\n,8& 8 % 4% 0 7 (A Be & GB =\n\nClickand dag, release when you're fished\n6. Plugins / Filters\nEnable optional post-processing: —-translate, --summarize, --improve-code.\n\n‘Stroke\neGsee B\n\nBackground\nO @® 7. Auto Language Translation\n\nstoke with If OCR detects another language (via langdetect), auto-translate to English.\n\nas @ 3. Mask Sensitive Info\nOpacity Detect and hide emails, phone numbers, credentials using regex before LLM sees them.\n° 50\n\nQ 4. History L\nsoe ‘ory Log\n\nSave OCR + LLM outputs to a .screengrab_history,json file.\nOption to re-run LLM on past snippe\n\n1B 10. Export Options\nExport results as:\n\nMarkdown\n\n— 10% + 6 pe 9 ©\nie HE Q Search Poeome as\n\n®O) Oe 11-05-2025\n\n",
+    "cleaned_text": "Here's the extracted important information:\n\n1. **Post-processing options**: \n   - Translate\n   - Summarize\n   - Improve code\n\n2. **Auto Language Translation**: Auto-translate detected non-English languages to English.\n\n3. **Mask Sensitive Info**: Detect and hide sensitive information like emails, phone numbers, and credentials.\n\n4. **History Log**: Save OCR and LLM outputs to a history file, with the option to re-run LLM on past snippets.\n\n5. **Export Options**: Export results as Markdown."
+  },
+  {
+    "timestamp": "2025-05-11T20:15:58",
+    "raw_text": "RP an aes ee onal\nWR St F feat taag ¢ Ue HEAT Hida EI <\n€ BAM OA U4 q b UR Up t\nORAR A Sal CAA & STIR Weald TA\nY sore at sit} AeA Sta \"Ba\nGT A SS Te H 4 SATaT SIR SAT Y\n\n",
+    "cleaned_text": "Important Info: HEAT, SAT, STIR"
+  },
+  {
+    "timestamp": "2025-05-11T20:40:07",
+    "raw_text": "B= ++ @ END SEMS PREP TRACKER, Share ©) ye\n\nEND SEMS PREP TRACKER\nTable + =u $s ae IP\n\nTimetable\n(4 DateofPaper HI Day A Subject © Timing @ Eo & Time left\n2025-05-19 Monday Math Il 10:00-12:30 ‘Dead T-\n\n( 2025-05-; (B OPEN Wednesday Chemistry 1000-1130 © ® (Dead) I=\n2025-05-23 Friday FEEE 10:00-11:30 (FilManage) 1 —\n2025-05-26 Monday Pps 10:00-11:00 Cookingir) = 14 —\n\n4 BE Q search BOP OmPBNE RA on\n\n11-05-2025,\n",
+    "cleaned_text": "Here is the extracted and summarized important information:\n\n**Timetable:**\n\n* 2025-05-19 (Monday): Math II, 10:00-12:30\n* 2025-05-21 (Wednesday): Chemistry, 10:00-11:30\n* 2025-05-23 (Friday): FEEE, 10:00-11:30\n* 2025-05-26 (Monday): PPS, 10:00-11:00\n\n**Current Date:** 11-05-2025"
+  },
+  {
+    "timestamp": "2025-05-16T14:42:24",
+    "raw_text": "@ Check Env Var 5 ® 4) WhatsApp\n\nB Unit2quess x JE QB (ODELpat\n\n28 Mutipt int\n\n> @g\n\ncommand Prompt- pythons X = + v\n\n‘bay Microsoft Windows [Version 10.0.22631.5262]\n(c) Microsoft Corporation. All rights reserved.\n\nC:\\Users\\Dewashish Lambore>echo %GROQ_API_KEV%\ngsk_aralezS1IglleoQyCTSYQWGdyb3FYRL jCeEvDTxUzsuYdTyB7SmTP\n\nC:\\Users\\Dewashish Lambore>cd Desktop\\PROJECTS\\ScreenGrab\n\nC:\\Users\\Dewashish Lambore\\Desktop\\PROJECTS\\ScreenGrab>python screen_text_reader.py\n\n(ah) / Ya:\nNANT anes An\n\nT=2/\n— AT \\\n\ncreated by Dewashish Lambore\n\n@ OCR Assistant with Grog is running.\n@ Press Ctrl + Alt + Shift + X to capture and summarize screen text.\n\nPress Esc to quit.\n@ Use ‘python screen_text_reader.py --history' to view past logs.\n\nfm Capturing screen...\n\n@ Unit 2_question Bank.pdf -...\n\nGo Ask Al Assistant\n\noP? omeouyr\n\nQ Search\n\nHeavier rain soon\n\n@ GroqCcioud v - 2a\n\n=> @\n\n14an\n\nA) OND) ceesrms\n",
+    "cleaned_text": "Here's the extracted important information:\n\n* Environment: Microsoft Windows [Version 10.0.22621.5262]\n* User: Dewashish Lambore\n* Command: `echo %GROQ_API_KEY%` revealed the API key: `gsk_aralezS1IglleoQyCTSYQWGdyb3FYRLjCeEvDTxUzsuYdTyB7SmTP`\n* Current directory: `C:\\Users\\Dewashish Lambore\\Desktop\\PROJECTS\\ScreenGrab`\n* Running script: `python screen_text_reader.py`\n* Application: OCR Assistant with Grog is running. \n* Available commands: \n  - Press Ctrl + Alt + Shift + X to capture and summarize screen text.\n  - Press Esc to quit.\n  - Use `python screen_text_reader.py --history` to view past logs."
+  },
+  {
+    "timestamp": "2025-05-16T14:44:02",
+    "raw_text": "W Vites React +15 Q Course:2024-28 4k QBMultiple x JE Unit question’ Ye QB(ODEpat —— @ Check Env VarS= _ @) (4) WhatsApp ® Grogcloud + v - o x\n\nec QQ S Adobe Acrobat: PDF edit, convert, sign tools chrome-extension://efaidnbmnnnibpcajpcgiclefindmkaj/htt.. | @ A Ons AOoaS®e\n| Alltoots Est Convert Sign @ inssitpune 1 QB Mult_gral (1) © Qns eo. E>) GI AL Assistant\nx\nHi, Dewashish Lay\nGet a 7-day free trial to access J @\npremium PDF tools. 4\nz Ey\n‘Start free trial\ne\nALL TOOLS Ly 4\n+ ‘\nG3 AskAl Assistant Question Bank\nUnit 1 ~ Multiple integrals CO1\n} Generate a summary pretest\nly over a triangular region with vertices (0,0), (2,2) and (0,3)\n) dx dy over the region bounded by 7\n{f xy(x + y) dx dy over the region between y = x? and y\n— xy) dx dy over the region in the first quadrant bounded by bounded by y x. &\n)) dx dy over the region bounded by *\n{J dx dy over the region bounded by y ec\nPF to IPG ’ Sf(7x2 + 14y) dx dy over the region bounded by\n{J x(y— 1) dA. over the region bounded by y 8,\nAllow access to file URLs to SJ (x?+y*) dx dy over the region bounded by 4 = x? + y?and x + y\nopen local PDFs in Acrobat. { xy dx dy over the region in the first quadrant bounded by 1 = x? + y2 and 4s Q\n{ff 2x dV over the volume in the first octant bounded by the tetrahedron x + 2y + 3z= 1, Q\n{ff(3 — 42) dx dy dz over the volume bounded by and above the region in the XY plane| a\nAin Severe ae 1443\n© Q Search A) OMB) cress\n\nToday\n",
+    "cleaned_text": "Here's the extracted important information:\n\n* Course: 2024-28\n* Topic: Multiple integrals (Unit 1)\n* Questions:\n\t+ Integrate over a triangular region with vertices (0,0), (2,2), and (0,3)\n\t+ Integrate over the region bounded by y = x^2 and y = x\n\t+ Integrate over the region in the first quadrant bounded by y = x\n\t+ Integrate over the region bounded by x^2 + y^2 = 4 and x + y = 4\n\t+ Integrate over the region bounded by y = x^2 + 1 and x = 2\n\t+ Integrate over the volume in the first octant bounded by the tetrahedron x + 2y + 3z = 1\n\t+ Integrate over the volume bounded by and above the region in the XY plane\n\nNote: I removed all irrelevant content, such as advertisements, menus, and unnecessary text, to extract the important information related to the course and questions."
+  },
+  {
+    "timestamp": "2025-05-17T21:25:07",
+    "raw_text": "J File Edit Selection View Go Run -- €> P ScreenGrab B ened - a x\n(prone s+ @ screen text_readerpy X @ MathModepy —_B test4;png B test3.png B LargeMathTestpng —-«# MathTestpng = history logjson DY MM =\n© SGREENGE FX] command Prompt- pythons X + © = B8 &\n> mv -\n\n> mi ve Microsoft Windows [Version 10.0.22631.5262]\n© pi (c) Microsoft Corporation. All rights reserved.\n\na *\"' C:\\Users\\Dewashish Lambore>cd Desktop\\PROJECTS\\SCREENGRAB\nb> sc\nC:\\Users\\Dewashish Lambore\\Desktop\\PROJECTS\\ScreenGrab>python screen_text_reader.py\nEC)\nhe @ x\ncreated by Dewashish Lambore a\n@ OCR Assistant with Groq is running.\n@ Press Ctrl + Alt + Shift + X to capture and summarize screen text. es\nPress Esc to quit. ee\n@ Use ‘python screen_text_reader.py —-history' to view past logs.\nt2 Capturing screen... logged x\n|\nSow Output Log |\nlogged 3 x\n® > OUTLINE\nge > mene pil) Dismiss\n@ > vscover_ a .\nasc — 2125\n\n",
+    "cleaned_text": "[Error contacting Groq API]: Connection error."
+  },
+  {
+    "timestamp": "2025-05-17T21:43:44",
+    "raw_text": "Select @ region with Cerl + Alt + Shift +X to capture toa\n\nPress Esc to quit the script.\")\nprint(\" | Use ‘python your_script_name.py --history’ to view past logs.”)\n\nprint (\"\n\n",
+    "cleaned_text": "Here's the extracted important information:\n\n* Select region with Ctrl + Alt + Shift + X to capture\n* Press Esc to quit the script\n* Use 'python your_script_name.py --history' to view past logs"
+  },
+  {
+    "timestamp": "2025-05-17T22:52:47",
+    "raw_text": "ImageAi Express, React, Mongoose, Cloudinary, Flux, Cors Link | GitHub\n+ Developed an Al-powered platform enabling users to generate high-quality, customizable images with 98% accuracy.\n+ Full crud functionalities, enabling users to seamlessly create, upload, edit, and delete their generated images\n+ Implemented sophisticated search system that allows users to efficiently search, filter, and organize their generated\nimages based on keywords or attributes, making content discovery quick and intuitive.\n+ Optimized image generation workflows for both speed and accuracy, reducing image creation time while\nmaintaining high visual quality, resulting in a responsive and engaging user experience.\n",
+    "cleaned_text": "[Error contacting Groq API]: 'Stream' object has no attribute 'choices'"
+  },
+  {
+    "timestamp": "2025-05-17T23:42:57",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted from image]"
+  },
+  {
+    "timestamp": "2025-05-17T23:43:15",
+    "raw_text": "@ Batteries\n@ electrical Machines\n{@ Basic Electrical Circuits and its Applicat\n\n{@ Semiconductor Devices and Applicatior\n",
+    "cleaned_text": "Important Info: \n- Batteries\n- Electrical Machines\n- Basic Electrical Circuits and its Applications\n- Semiconductor Devices and Applications"
+  },
+  {
+    "timestamp": "2025-05-17T23:43:46",
+    "raw_text": "| Bakes es\nElectrical Machines\n\n- Basic Electrical Circuits and its Applications\n- Semiconductor Devices and Applications\n\n% LLM cleanup complete.\n\n",
+    "cleaned_text": "Important Info: \n- Basic Electrical Circuits and its Applications\n- Semiconductor Devices and Applications"
+  },
+  {
+    "timestamp": "2025-05-17T23:49:36",
+    "raw_text": "172. GB 1.9 hours\n\nTrackers & ads blocked Bandwidth saved Time saved\n",
+    "cleaned_text": "Here is the extracted important information:\n\n* 172 GB\n* 1.9 hours \n* Trackers & ads blocked \n* Bandwidth saved \n* Time saved"
+  },
+  {
+    "timestamp": "2025-05-17T23:51:55",
+    "raw_text": "1s that your device doesn't have to download or load those unnecessary elements, which in\nan help to conserve your internet data Limit, reduce your internet bill, and also improve\n\nthe OCR result (or type ‘exit’ to stop):\n\n-e\\Desktop\\PROJECTS\\ScreenGrab>python screen_text_reader.py\n\n/\n\n—I = —)/\n_/ \\_, N_/ \\.\nfe\n\ncreated by Dewashish Lambore\n\nq is running.\nft + X to capture and summarize screen text.\n\nt_reader.py —-history' to view past logs.\n\ne screen to select the capture region.\n\n: 150, ‘left': 229, ‘width': 802, ‘height': 520}\n",
+    "cleaned_text": "Here is the extracted important information:\n\n* The device conserves internet data by not downloading unnecessary elements, which helps reduce the internet bill and improve the OCR result.\n* A screen text reader tool is running, created by Dewashish Lambore.\n* To capture and summarize screen text, use the shortcut \"ft + X\".\n* To view past logs, use the command \"t_reader.py —-history\"."
+  },
+  {
+    "timestamp": "2025-05-17T23:59:32",
+    "raw_text": "7/1\n\na\nMK vi 7 Tr cy / - ha (b\n\n~ created by Dewashish Lambore\n\n",
+    "cleaned_text": "Here is the extracted important information:\n\n* Created by: Dewashish Lambore \n* Date: 7/1"
+  },
+  {
+    "timestamp": "2025-05-19T14:34:49",
+    "raw_text": "} Race Highlights | 2025 Emilia-Romagna Grand Prix\nFORMULA 1 ©\nOreste\n",
+    "cleaned_text": "2025 Emilia-Romagna Grand Prix"
+  },
+  {
+    "timestamp": "2025-05-19T14:36:29",
+    "raw_text": "yf\nYCIYPlo.com @ crypto. .com @c\n\nHIGHLIGH\n\n=) Race Highlights | 2025 Emilia-Romagna Grand Prix\nFORMULA 1 ©\n4.5M views - 16 hours ego\n\n",
+    "cleaned_text": "2025 Emilia-Romagna Grand Prix \n- 4.5M views \n- 16 hours old \n- Formula 1 race highlights"
+  },
+  {
+    "timestamp": "2025-05-19T14:57:12",
+    "raw_text": "Alex Griffin\n",
+    "cleaned_text": "There is no important information to extract. The text only contains a name, \"Alex Griffin\", and a heading \"Important Info:\" with no actual information provided."
+  },
+  {
+    "timestamp": "2025-05-19T15:15:36",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted from image]"
+  },
+  {
+    "timestamp": "2025-05-19T15:16:02",
+    "raw_text": "2R 200+ IQ Engineer Analyzes Plane Crash and Finds the\nFatal Secret!\nAfterMovie Recaps\n34K views 2 weeks ago\n",
+    "cleaned_text": "Here is the extracted important information:\n\n* Title: Engineer Analyzes Plane Crash and Finds the Fatal Secret\n* Views: 34K\n* Time posted: 2 weeks ago"
+  },
+  {
+    "timestamp": "2025-05-20T15:28:40",
+    "raw_text": "A solution has a molar absorptivity of 500 L.mol” cm”, and its\nabsorbance is measured as 0.5. The path length of the cuvette containing\nthe solution is 2.0 cm. What is the concentration of the compound in the\nsolution?\n\n",
+    "cleaned_text": "Molar absorptivity: 500 L/mol·cm\nAbsorbance: 0.5\nPath length: 2.0 cm \n\nNeeds to find: Concentration of the compound in the solution."
+  },
+  {
+    "timestamp": "2025-05-20T15:34:14",
+    "raw_text": "The density of a face centered cubic element having 4 formula units is 6.2\ng. cm’. The atomic of the element is 60.2 amu. Calculate the length of the\nedge of the unit cell. (Avogadro’s constant, Na = 6.02105 mol )\n\n",
+    "cleaned_text": "Density of the element: 6.2 g/cm³\nAtomic mass: 60.2 amu\nNumber of formula units per unit cell: 4\nAvogadro's constant (Na): 6.02105 mol⁻¹"
+  },
+  {
+    "timestamp": "2025-05-20T15:47:20",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-20T16:52:37",
+    "raw_text": "Calculate the Gross and Net calorific value of coal having the following\ncomposition: Carbon =85%, Sulphur = 1%, Hydrogen = 8%, Nitrogen=\n2%, Ash = 4%. Latent heat of steam is 587cal/g.\n",
+    "cleaned_text": "Coal composition: \n- Carbon: 85%\n- Sulphur: 1%\n- Hydrogen: 8%\n- Nitrogen: 2%\n- Ash: 4%\nLatent heat of steam: 587 cal/g"
+  },
+  {
+    "timestamp": "2025-05-20T16:53:39",
+    "raw_text": "A fuel is found to contain C = 90%, H = 6%, S = 2.5% O = 1% and ash =\n0.5%. Calculate the amount of air required for the complete combustion\nof 1kg of fuel\n\n",
+    "cleaned_text": "C = 90%, H = 6%, S = 2.5%, O = 1%, ash = 0.5%. Calculate air required for complete combustion of 1kg of fuel."
+  },
+  {
+    "timestamp": "2025-05-20T16:59:30",
+    "raw_text": "A coal sample was analysed as follows. Exactly 2.5 grams of coal was\nweighed into a silica crucible. After heating for one hour at 110°C, the\nresidue weight 2.415 g. The crucible was then covered with a vented lid\nand strongly heated for exactly seven minutes at 950+20°C. The residue\nweighed 1.528 g. The crucible was then heated without the cover until a\nconstant weight was obtained. The last residue was found to weigh 0.245\ng. Calculate the percentage of moisture, volatile matter, ash and fixed\ncarbon respectively in the coal sample.\n\n",
+    "cleaned_text": "Here's the extracted important information:\n\n* Initial coal weight: 2.5 grams\n* Residue weight after 1 hour at 110°C: 2.415 grams\n* Residue weight after 7 minutes at 950°C: 1.528 grams\n* Final residue weight: 0.245 grams\n\nThese values can be used to calculate the percentage of moisture, volatile matter, ash, and fixed carbon in the coal sample."
+  },
+  {
+    "timestamp": "2025-05-20T18:23:20",
+    "raw_text": "A 40 mL of sample contains 500 ppm of dissolved oxygen. After\nincubating the sample at 20°C for 5 days, the dissolved oxygen value\nbecomes 350 ppm after the sample has been diluted to 70 mL.\nCalculate the Biological Oxygen Demand (BOD).\n\n",
+    "cleaned_text": "Initial dissolved oxygen: 500 ppm\nInitial sample volume: 40 mL\nFinal dissolved oxygen: 350 ppm\nFinal sample volume: 70 mL\nIncubation temperature: 20°C\nIncubation time: 5 days"
+  },
+  {
+    "timestamp": "2025-05-20T18:43:53",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-20T18:45:14",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-20T18:46:04",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-20T18:46:32",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-20T19:31:21",
+    "raw_text": "Python. 3.12_3.12.2800.0_x6u_\n",
+    "cleaned_text": "Python 3.12"
+  },
+  {
+    "timestamp": "2025-05-21T14:03:02",
+    "raw_text": "‘= Travel Bucketlist - 1w_ if\n7 of the Happiest Nations (And 3 ofthe Most\nUnhappy You Might Avoid) S\n\nga 9 7\n\n",
+    "cleaned_text": "7 of the Happiest Nations and 3 of the Most Unhappy Nations"
+  }
+]
