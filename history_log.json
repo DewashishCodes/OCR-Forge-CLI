@@ -163,5 +163,10 @@
     "timestamp": "2025-05-21T14:03:02",
     "raw_text": "‘= Travel Bucketlist - 1w_ if\n7 of the Happiest Nations (And 3 ofthe Most\nUnhappy You Might Avoid) S\n\nga 9 7\n\n",
     "cleaned_text": "7 of the Happiest Nations and 3 of the Most Unhappy Nations"
+  },
+  {
+    "timestamp": "2025-05-21T14:45:09",
+    "raw_text": "Some guys from IIMC have told me\n\nthat we have to sleep with placecom\nmembers to even get shortlisted for\nDay 0 &1 SIP. Is that really true?\n",
+    "cleaned_text": "Some guys from IIMC claim that sleeping with placement members is necessary to get shortlisted for Day 0 & 1 SIP."
   }
 ]
