@@ -46,7 +46,7 @@ OCR Forge CLI is a powerful screen capture and text extraction tool that combine
 Run the script from your terminal or command prompt:
 
 ```
-python curseforge.py
+python ocrforge.py
 ```
 
 ### Keyboard Shortcuts ⌨️
@@ -75,7 +75,7 @@ After text is captured and processed:
 To view your capture history:
 
 ```
-python curseforge.py --history
+python ocrforge.py --history
 ```
 
 This will display the last 5 captures with their timestamps and cleaned text.
@@ -155,7 +155,7 @@ If region selection doesn't work:
 
 ## Files 📁
 
-- `curseforge.py`: Main application script
+- `ocrforge.py`: Main application script
 - `favicon.ico`: Icon file for notifications
 - `history_log.json`: Log of captured text
 

@@ -33,14 +33,14 @@ $env:GROQ_API_KEY="your_groq_api_key_here"    # Windows PowerShell
 ### 3. Launch OCR Forge CLI
 
 ```bash
-python curseforge.py
+python ocrforge.py
 ```
 
 ### 4. Basic Commands
 
 - **Capture Screen Region**: Press `Ctrl + Print Screen`
 - **Exit Application**: Press `Esc`
-- **View History**: Run `python curseforge.py --history`
+- **View History**: Run `python ocrforge.py --history`
 
 ### 5. Workflow
 

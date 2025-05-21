@@ -60,7 +60,7 @@ tesseract --version
    cd ocrforge
    
    # Download the script (replace with actual download URL if available)
-   curl -o curseforge.py https://raw.githubusercontent.com/username/ocrforge/main/curseforge.py
+   curl -o ocrforge.py https://raw.githubusercontent.com/username/ocrforge/main/ocrforge.py
    # OR copy the script manually to this directory
    ```
 
@@ -82,7 +82,7 @@ tesseract --version
 
 ### 4. Configure Tesseract Path
 
-Open `curseforge.py` in a text editor and update the Tesseract path to match your installation:
+Open `ocrforge.py` in a text editor and update the Tesseract path to match your installation:
 
 ```python
 # Find this line and update it with your Tesseract path
@@ -123,14 +123,14 @@ pytesseract.pytesseract.tesseract_cmd = r"D:\Tesseract\tesseract.exe"
 
 The application looks for `favicon.ico` in the current directory for notifications. You can:
 - Create or download an icon file named `favicon.ico`
-- Place it in the same directory as `curseforge.py`
+- Place it in the same directory as `ocrforge.py`
 - Or update the `APP_ICON` variable in the script to point to your icon file
 
 ### 7. Test the Installation
 
 Run the application:
 ```bash
-python curseforge.py
+python ocrforge.py
 ```
 
 You should see the OCR Forge CLI banner and instructions.
@@ -138,7 +138,7 @@ You should see the OCR Forge CLI banner and instructions.
 ## Updating OCR Forge CLI
 
 To update the application in the future:
-1. Download the latest version of `curseforge.py`
+1. Download the latest version of `ocrforge.py`
 2. Replace your existing file
 3. If new dependencies are required, run:
    ```bash
@@ -203,7 +203,7 @@ HISTORY_FILE = "/path/to/your/preferred/location/history_log.json"
 
 To remove OCR Forge CLI:
 
-1. Delete the application directory containing `curseforge.py`
+1. Delete the application directory containing `ocrforge.py`
 2. Optionally uninstall Python packages:
    ```bash
    pip uninstall mss pillow pytesseract keyboard plyer requests groq rich
