@@ -13,6 +13,8 @@ OCR Forge CLI is a powerful screen capture and text extraction tool that combine
 - **History Logging** 📚: Save and review past captures
 - **Code Highlighting** 🔆: Properly format and display code blocks in the output
 - **Hotkey Integration** ⌨️: Quick activation with keyboard shortcuts
+- **Voice Talkback** 🔊: Text-to-speech playback of OCR output and follow-up responses.
+- **Added CLI commands**🖥️ : Added helpful CLI commands which can be accesed via using argument --help 
 
 ## Requirements 📋
 
@@ -79,6 +81,22 @@ python ocrforge.py --history
 ```
 
 This will display the last 5 captures with their timestamps and cleaned text.
+
+### CLI Commands 🖥️
+ Added helpful commands to aid user experience.
+ The command list can be accesed by puttinng in:
+ ```
+python ocrforge.py --help
+```
+
+### Voice Talkback 🔊
+Togglable option to turn on voice talkback of OCR and follow up outputs
+To turn on:
+```
+python ocrforge.py --v
+# --nv to turn off
+```
+
 
 ## How It Works ⚙️
 
