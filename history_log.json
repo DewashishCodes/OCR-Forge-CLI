@@ -168,5 +168,255 @@
     "timestamp": "2025-05-21T14:45:09",
     "raw_text": "Some guys from IIMC have told me\n\nthat we have to sleep with placecom\nmembers to even get shortlisted for\nDay 0 &1 SIP. Is that really true?\n",
     "cleaned_text": "Some guys from IIMC claim that sleeping with placement members is necessary to get shortlisted for Day 0 & 1 SIP."
+  },
+  {
+    "timestamp": "2025-05-22T10:12:58",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-22T14:33:35",
+    "raw_text": "A 100 V, 60 W lamp is connected in series with a 100 V, 100 W lamp across 200\nV_ supply. What will be the current drawn by the lamps? What will be the power\nconsumed by each lamp?\n",
+    "cleaned_text": "A 100 V, 60 W lamp and a 100 V, 100 W lamp are connected in series across a 200 V supply. The task is to find the current drawn by the lamps and the power consumed by each lamp."
+  },
+  {
+    "timestamp": "2025-05-22T14:35:59",
+    "raw_text": "An alternating voltage is represented by the following expression: v = 25 sin (200\n88t) Calculate the following:\n\n(i) Amplitude\n\n(ii) Time period\n\n(iii) Frequency\n\n(iv) Angular velocity\n(v) Form factor\n",
+    "cleaned_text": "v = 25 sin (200πt) \n\nTo calculate:\n\n(i) Amplitude: 25\n(ii) Time period: T = 2π / 200π = 1/100 = 0.01 s\n(iii) Frequency: f = 1/T = 100 Hz\n(iv) Angular velocity: ω = 200π\n(v) Form factor: Not enough information to calculate"
+  },
+  {
+    "timestamp": "2025-05-22T14:38:49",
+    "raw_text": "Describe the behavior of a pure capacitor in an AC circuit and derive its expression\n",
+    "cleaned_text": "The behavior of a pure capacitor in an AC circuit and its expression need to be described and derived."
+  },
+  {
+    "timestamp": "2025-05-22T14:39:04",
+    "raw_text": "Describe the behavior of a pure capacitor in an AC circuit and derive its expression\n",
+    "cleaned_text": "The behavior of a pure capacitor in an AC circuit and its expression need to be described and derived."
+  },
+  {
+    "timestamp": "2025-05-22T14:52:24",
+    "raw_text": "Derive the expression of generated e.m.f. in a DC motor. A 4 pole lap wound de\nmotor has 480 conductors. The flux per pole is 24mWb, and the armature resistance\nis 1 ohm. If the motor is connected to a 200V dc supply and running at 1000 rpm\non no load, calculate: (i) Back emf (ii) Armature current\n",
+    "cleaned_text": "DC motor with 4 poles, lap wound, 480 conductors, 24mWb flux per pole, and 1 ohm armature resistance. Connected to 200V DC supply, running at 1000 rpm on no load. Needs to calculate: \n1. Back emf\n2. Armature current"
+  },
+  {
+    "timestamp": "2025-05-22T15:00:47",
+    "raw_text": "17.\n\nA 4- pole lap wound armature dc motor has flux per pole of 25mWb. The number of\narmature conductors is 200. The motor draw in armature current of 20 A when\nconnected across a 200V de supply. Calculate the back emf and the speed of motor if\narmature resistance is 0.4 ohm\n",
+    "cleaned_text": "A 4-pole lap wound armature DC motor has the following specifications:\n- Flux per pole: 25 mWb\n- Number of armature conductors: 200\n- Armature current: 20 A\n- Supply voltage: 200 V\n- Armature resistance: 0.4 ohm\n\nThe task is to calculate the back emf and the speed of the motor."
+  },
+  {
+    "timestamp": "2025-05-22T15:06:57",
+    "raw_text": "b. Comment on the phase difference between current and voltage in a\npure capacitive circuit with the help of circuit and phasor diagram.\n",
+    "cleaned_text": "In a pure capacitive circuit, the current and voltage have a phase difference. The current leads the voltage by 90 degrees. This can be illustrated using a circuit and phasor diagram."
+  },
+  {
+    "timestamp": "2025-05-22T15:07:25",
+    "raw_text": "d. State the disadvantages of a half wave rectifier.\n",
+    "cleaned_text": "The disadvantages of a half wave rectifier are not listed in the provided text. The text only includes a prompt to state the disadvantages, but does not provide the actual information."
+  },
+  {
+    "timestamp": "2025-05-22T15:08:05",
+    "raw_text": "dame the regions of operation of BJT and explain how are the\njunctions of BJT biased to achieve those regions of operation.\n",
+    "cleaned_text": "The regions of operation of a BJT (Bipolar Junction Transistor) are achieved by biasing its junctions. The three main regions of operation are:\n\n1. Active Region: The BJT operates as an amplifier, where the base-emitter junction is forward-biased and the base-collector junction is reverse-biased.\n2. Saturation Region: The BJT operates as a switch, where both the base-emitter and base-collector junctions are forward-biased.\n3. Cut-off Region: The BJT is in an off-state, where both the base-emitter and base-collector junctions are reverse-biased.\n\nThese regions are achieved by adjusting the voltage applied to the base, emitter, and collector."
+  },
+  {
+    "timestamp": "2025-05-22T15:29:25",
+    "raw_text": "c. Define back emf in DC motors.\n",
+    "cleaned_text": "Define back emf in DC motors."
+  },
+  {
+    "timestamp": "2025-05-22T15:30:30",
+    "raw_text": "a—__+___a\nd. Classify the following as trivalent or pentavalent impurities - Boron,\nPhosphorus, Antimony, Aluminium, Indium and Arsenic.\n",
+    "cleaned_text": "Classify the following as trivalent or pentavalent impurities: \n- Boron\n- Phosphorus\n- Antimony\n- Aluminium\n- Indium\n- Arsenic"
+  },
+  {
+    "timestamp": "2025-05-22T15:31:43",
+    "raw_text": "Calculate the currents, 1p and ly, in network shown in figure 1 using mesh\nanalysis.\n\not. pa) - ao\n\nFigure.\n\n",
+    "cleaned_text": "Calculate the currents, I1 and I2, in the network shown in figure 1 using mesh analysis."
+  },
+  {
+    "timestamp": "2025-05-22T15:52:48",
+    "raw_text": "A318 uF capacitor is connected across a 230 V, 50 Hz supply. Find\ni) Capacitive reactance\n\nii) Write the equations for voltage and current\n—\n\na\n\n",
+    "cleaned_text": "A 318 uF capacitor is connected to a 230 V, 50 Hz supply. The task is to:\n\n1. Find the capacitive reactance\n2. Write the equations for voltage and current."
+  },
+  {
+    "timestamp": "2025-05-24T13:18:58",
+    "raw_text": "[Region Selection Cancelled]",
+    "cleaned_text": "[Region Selection Cancelled]"
+  },
+  {
+    "timestamp": "2025-05-24T13:19:10",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T15:24:34",
+    "raw_text": "Hammer and Wrench Emoji Meaning\n\nA hammer and wrench, as kept in a toolbox, crossed in an X shape. Depicted with metal tools\nfacing up, the hammer positioned at the upper left. Most vendors implement the same design\nas for their 4. Hammer and *\\. Wrench.\n\nCommonly used for various content concerning tools, building, construction, and work, both\nmanual and digital.\n\nHammer and Wrench was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in\n2015.\n",
+    "cleaned_text": "A hammer and wrench emoji represents tools, building, construction, and work. It was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "timestamp": "2025-05-24T15:37:19",
+    "raw_text": "Af SVs SN INS _!\n/__/ created by Dewashish Lambo\n\n_ initialized.\n\nig Voice I/O...\n\nnitialized.\n\ns ON.\n\nCR forge is ready.\n\nnt with Groq is running.\n\ngion with Ctrl + PrtScn to capture text.\n0 quit.\n\n'y with: python ocrforge.py --history\nnabled\n\nfoice 1/0: python ocrforge.py —-no-voice\n\now-up Instructions ——-\n\nlow-up voice mode after text extraction, say one of: yes, yeah, ok\nestion in follow-up mode, start by saying ‘query: [your question]\"\nlow-up mode, say one of: quit, exit, stop, cancel\n\ncreen capture initiated. Select a region.\n\nangle on the screen to select the capture region.\ncancel.\n",
+    "cleaned_text": "Here's the extracted important information:\n\n* To capture text, use Ctrl + PrtScn.\n* To quit, type '0'.\n* Run with voice mode using: python ocrforge.py --history enabled\n* Run without voice mode using: python ocrforge.py --no-voice\n* Follow-up voice mode instructions:\n  * Confirm follow-up mode by saying: yes, yeah, ok\n  * Ask a question by saying: 'query: [your question]'\n  * Exit follow-up mode by saying: quit, exit, stop, cancel"
+  },
+  {
+    "timestamp": "2025-05-24T15:37:35",
+    "raw_text": "L + PrtScn.\n\n1g: python ocrforge.py —history enabled\nising: python ocrforge.py —no-voice\nstructions:\n» by saying: yes, yeah, ok\n\ning: ‘query: [your question]'\n\n/ saying: quit, exit, stop, cancel\n\nny follow up questions?\n\nay 'yes' or ‘no' keywords like yes, yeah, okay, ok, start or quit,\n\n",
+    "cleaned_text": "To interact with the system:\n\n* Say \"yes\", \"yeah\", or \"ok\" to confirm\n* Say \"quit\", \"exit\", \"stop\", or \"cancel\" to stop\n* Ask a question by saying \"query: [your question]\"\n* Respond to follow-up questions with \"yes\" or \"no\" \n\nCommands to run the system:\n* `python ocrforge.py --history enabled` \n* `python ocrforge.py --no-voice`"
+  },
+  {
+    "timestamp": "2025-05-24T15:38:34",
+    "raw_text": "A hammer and wrench, as kept in a toolbox, crossed in an X shape. Depicted with metal tools\nfacing up, the hammer positioned at the upper left. Most vendors implement the same design\nas for their 4 Hammer and “s Wrench.\n\n‘Commonly used for various content concerning tools, building, construction, and work, both\n‘manual and digital.\n\n‘Hammer and Wrench was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in\n2015.\n",
+    "cleaned_text": "A hammer and wrench emoji is used to represent tools, building, construction, and work. It was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "timestamp": "2025-05-24T15:42:07",
+    "raw_text": "say one of: yes, yeah, okay, ok, start\n‘query: [your question]' or ‘query [space] [your question]'\n\n, cancel\n",
+    "cleaned_text": "To proceed, say one of the following: \n- yes\n- yeah\n- okay\n- ok\n- start\n\nYou can also ask a question by saying \"query\" followed by your question. \n\nTo stop, say \"cancel\"."
+  },
+  {
+    "timestamp": "2025-05-24T15:42:48",
+    "raw_text": "—//\nJ /_//\nJN. NS\n\n/_/ “created by Dewashish Lambore\n\n-W\nIf, SSN _\n/A\\S/ ——/\\_~\n\n| client initialized.\ne mode disabled via command line and saved.\n",
+    "cleaned_text": "Created by Dewashish Lambore. Client initialized, e mode disabled via command line and saved."
+  },
+  {
+    "timestamp": "2025-05-24T15:48:05",
+    "raw_text": "ackages \\PythonSottwareF oundation\nt\n\n2Foundation.Python.3.12_3.12.286\n\n2Foundation.Python.3.12_3.12.286\n",
+    "cleaned_text": "Foundation.Python.3.12_3.12.286"
+  },
+  {
+    "timestamp": "2025-05-24T17:17:00",
+    "raw_text": "thonSoftwareFoundation .Python.3.12_3\nt)\n\nECTS\\ScreenGrab>python ocrforge.py\n",
+    "cleaned_text": "Python 3.12_3 \nImportant Info:"
+  },
+  {
+    "timestamp": "2025-05-24T17:28:37",
+    "raw_text": "4\nt (timeout)\n\nowsApps\\PythonSoftwareFoundation .Python.3.12_3.12.2800.0_x6ll__qbz5n2k\nue, timeout)\n\nsktop\\PROJECTS\\ScreenGrab>python ocrforge.py\n\n",
+    "cleaned_text": "Important Info:"
+  },
+  {
+    "timestamp": "2025-05-24T17:29:17",
+    "raw_text": "Final Lap that BROKE F1 | 2021 Abu Dhabi\nula Lore\nViews «3 days ago\n\n",
+    "cleaned_text": "Final Lap that BROKE F1 | 2021 Abu Dhabi"
+  },
+  {
+    "timestamp": "2025-05-24T17:31:57",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:32:13",
+    "raw_text": "Tes 7 LPA vs Startup 4.5LPA Which One to Choose (2025 graduate)\n\n1am a 2025 graduate | have tcs digital offer 7 Ipa And a small startup 4.5Ipa (full Stack dev - Mern stack)(\nvery tight deadlines and sometimes 6 days a week 9-6) Startup does not have pf and other schemes just\nprovides salary slips. Tell me what to do really confused Give suggestions\n",
+    "cleaned_text": "A 2025 graduate is considering two job offers: \n- TCS Digital offering 7 LPA\n- A small startup offering 4.5 LPA as a full-stack developer (MERN stack) with tight deadlines and a 6-day workweek. The startup does not provide PF or other benefits, only a salary slip."
+  },
+  {
+    "timestamp": "2025-05-24T17:39:56",
+    "raw_text": "Qualifying\n\n19:30 - 20:30\n",
+    "cleaned_text": "19:30 - 20:30"
+  },
+  {
+    "timestamp": "2025-05-24T17:42:08",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:42:13",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:42:18",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:42:27",
+    "raw_text": "creenshot_region.png\n\n|.png\nr occurred during OCR.\n\ne from the last capture for follow-up.\ncreen to select the capture region.\n\nU2U, ‘Left’: 236, ‘width’: 495, ‘height': 28}\n",
+    "cleaned_text": "Important Info: An error occurred during OCR."
+  },
+  {
+    "timestamp": "2025-05-24T17:43:02",
+    "raw_text": "A hammer and wrench, as kept in a toolbox, crossed in an X shape. Depicted with metal tools\nfacing up, the hammer positioned at the upper left. Most vendors implement the same design\nas for their 4 Hammer and “s Wrench.\n\n‘Commonly used for various content concerning tools, building, construction, and work, both\n‘manual and digital.\n\n‘Hammer and Wrench was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in\n2015.\n",
+    "cleaned_text": "A hammer and wrench emoji is used to represent tools, building, construction, and work. It was approved as part of Unicode 7.0 in 2014 and added to Emoji 1.0 in 2015."
+  },
+  {
+    "timestamp": "2025-05-24T17:44:22",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:44:33",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:45:49",
+    "raw_text": "149,199 1.78 GB 1.9 hours\nTrackers & ads blocked Bondwidiigeved cinaacved\n\na\n\n",
+    "cleaned_text": "Important Info: \n\n* 149,199 \n* 1.78 GB \n* 1.9 hours \n* Trackers & ads blocked"
+  },
+  {
+    "timestamp": "2025-05-24T17:46:28",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:51:28",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:51:46",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:52:08",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:52:30",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:55:21",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T17:57:14",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T18:08:56",
+    "raw_text": "",
+    "cleaned_text": "[No text extracted]"
+  },
+  {
+    "timestamp": "2025-05-24T18:09:03",
+    "raw_text": "Voice settings initialized.\n\n# OCR Assistant with Groq is running.\n\n¢ Select a region with Ctrl + PrtScn to capture text.\n< Press Esc to quit.\n\n@ View history with: python ocrforge.py —-history\n\n¢ Voice mode disabled via command Line and saved.\n\n# To enable: python ocrforge.py —-v\n\nB Draw a rectangle on the screen to select the capture region.\nPress Esc to cancel.\nZ Region selected: {'top': 221, 'left': 965, ‘width': 99, 'height': 242}\n\n2 Capturing selected region...\n\negion screenshot saved to screenshot_region.png\nm Extracting text...\n\nleaned up screenshot_region.png\n\n& No text extracted or error occurred during OCR.\n\nB No valid context available from the last capture for follow-up.\n",
+    "cleaned_text": "No text was extracted from the captured region due to an error or lack of valid context."
+  },
+  {
+    "timestamp": "2025-05-24T18:11:14",
+    "raw_text": "Extra privacy & security online\nHide your IP & change your location\nProtect every app on your device\n",
+    "cleaned_text": "Extra privacy and security online, hiding IP and changing location, protecting all device apps."
+  },
+  {
+    "timestamp": "2025-05-24T18:11:52",
+    "raw_text": "Powered Dy \\7 Svarcian\n\nExtra privacy & security online\n) Hide your IP & change your location\n). Protect every app on your device\n",
+    "cleaned_text": "Extra privacy & security online\n- Hide your IP & change your location\n- Protect every app on your device"
+  },
+  {
+    "timestamp": "2025-05-24T18:20:05",
+    "raw_text": "Extra privacy & security online\nHide your IP & change your location\nProtect every app on your device\n",
+    "cleaned_text": "Extra privacy and security online, hiding IP and changing location, protecting every app on the device."
+  },
+  {
+    "timestamp": "2025-05-24T18:21:20",
+    "raw_text": "Extra privacy & security online\nHide your IP & change your location\nProtect every app on your device\n",
+    "cleaned_text": "Extra privacy and security online, hiding IP and changing location, protecting every app on the device."
   }
 ]

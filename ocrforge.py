@@ -10,7 +10,8 @@ import ocr
 import llm
 import history
 import display
-
+import voiceout as vo
+import clicommands as cc
 # --- Initial Setup ---
 
 # Print the ASCII art banner
@@ -36,10 +37,64 @@ except Exception as e:
 ocr.set_tesseract_cmd(config.TESSERACT_CMD)
 # Optional: Add a check here to see if Tesseract executable exists/works
 
+try:
+    # Define a speech rate in your config.py if you want it configurable
+    SPEECH_RATE = 200 # Or get from config: config.SPEECH_RATE
+    vo.initialize_voice_settings(SPEECH_RATE)
+    print("✅ Voice settings initialized.")
+except Exception as e:
+    print(f"❌ Failed to initialize voice settings: {e}")
+    # Decide if you want to exit or just proceed without speech
+
 # Check for history command-line argument
 if "--history" in sys.argv:
     history.print_history(config.HISTORY_FILE)
     sys.exit(0)
+
+if "--help" in sys.argv or "--h" in sys.argv:
+        cc.show_help()
+        sys.exit(0)
+
+if "--docs" in sys.argv:
+        cc.show_docs()
+        sys.exit(0)
+
+global voice_mode
+voice_mode = False
+# --- Voice Mode Configuration ---
+VIO_CONFIG_FILE="./voicemodeconfig.txt"
+# Initialize voice_mode based on file first
+if os.path.exists(VIO_CONFIG_FILE):
+    try:
+        with open(VIO_CONFIG_FILE, "r") as f:
+            content = f.read().strip().lower() # Read and make lowercase for robustness
+            if content == "voice_on":
+                voice_mode = True
+            else:
+                 voice_mode = False # Ensure it's explicitly False if file exists but isn't 'voice_on'
+    except Exception as e:
+        print(f"⚠️ Could not read voice mode setting from file: {e}")
+        voice_mode = False # Default to off if file read fails
+
+# Check if command-line argument is given to toggle and override file
+if "--v" in sys.argv:
+    voice_mode = True
+    try:
+        with open(VIO_CONFIG_FILE, "w") as f:
+            f.write("voice_on")
+        
+    except Exception as e:
+        print(f"⚠️ Could not save voice mode setting to file: {e}")
+
+elif "--nv" in sys.argv:
+    voice_mode = False
+    try:
+        with open(VIO_CONFIG_FILE, "w") as f:
+            f.write("voice_off")
+        
+    except Exception as e:
+        print(f"⚠️ Could not save voice mode setting to file: {e}")
+
 
 # --- Main Capture & Process Flow ---
 
@@ -77,6 +132,8 @@ def process_captured_image(image_path):
             app_name="OCRforge CLI"
            
          )
+         if voice_mode==True:
+          vo.speak("Sorry, No text could be extracted. Please try again")
          return logged_cleaned_text # Return error/empty message as context
 
 
@@ -94,6 +151,9 @@ def process_captured_image(image_path):
     print("\n✅ Final Relevant Text:\n----------------------")
     display.display_output(cleaned_text) # Use the improved display function
     print("----------------------\n")
+    if voice_mode==True:
+     vo.speak(cleaned_text)
+     vo.speak("Entering Follow Up")
 
     # Log the results
     history.log_result(config.HISTORY_FILE, cleaned_text, raw_text)
@@ -191,6 +251,14 @@ print("🎯 Select a region with Ctrl + PrtScn to capture text.")
 # print("Capture full screen with Shift + PrtScn (Optional - if enabled).") # Uncomment if you add the binding
 print("❌ Press Esc to quit.")
 print(f"📖 View history with: python {os.path.basename(__file__)} --history")
+if voice_mode==True:
+    print("🔊 Voice mode enabled via command line and saved.")
+    print(f"🛠️ To disable: python {os.path.basename(__file__)} --nv ")
+else:
+    print("🔇 Voice mode disabled via command line and saved.")
+    print(f"🛠️ To enable: python {os.path.basename(__file__)} --v ")
+
+ 
 
 
 # Bind the shortcut (Ctrl + Print Screen) to trigger region capture
