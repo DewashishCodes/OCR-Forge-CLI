@@ -418,5 +418,65 @@
     "timestamp": "2025-05-24T18:21:20",
     "raw_text": "Extra privacy & security online\nHide your IP & change your location\nProtect every app on your device\n",
     "cleaned_text": "Extra privacy and security online, hiding IP and changing location, protecting every app on the device."
+  },
+  {
+    "timestamp": "2025-05-25T12:43:06",
+    "raw_text": "LIVE: Monaco Grand Prix Build-Up\nand Drivers Parade\n\n‘Scheduled for 5/25/25, 430M\n\nQS veemrie\n\n‘atch us LIVE as we catch up with the divers before the Monaco\nGrand Pris For more FI® videos visit.\n\n",
+    "cleaned_text": "Monaco Grand Prix build-up and Drivers Parade is scheduled for May 25, 2025, at 4:30 PM."
+  },
+  {
+    "timestamp": "2025-05-25T16:35:07",
+    "raw_text": ">The constructor\nOThe built-in function is used to create a list.\n\nOThe syntax for function is,\n",
+    "cleaned_text": "The built-in function is used to create a list."
+  },
+  {
+    "timestamp": "2025-05-25T16:55:11",
+    "raw_text": "- Protected (single underscore prefix, e.g., ‘_variable‘): indicates the variable or method is intended to be private, b\nut Python doesn't prevent it from being accessed directly.\n\n- Private (double underscore prefix, e.g., ‘_variable’): Python performs name mangling, making it more difficult to acc\ness directly (though not impossible). The variable is internally changed to ‘_classname__variable’.\n\n@ Ack = follow-un about the context (or tyne 'exit' to <ton’\n",
+    "cleaned_text": "In Python, variables or methods can be marked as:\n\n* Protected: with a single underscore prefix (e.g., '_variable'), indicating they are intended to be private but can still be accessed directly.\n* Private: with a double underscore prefix (e.g., '__variable'), which performs name mangling, making direct access more difficult, and internally changes the variable to '_classname__variable'."
+  },
+  {
+    "timestamp": "2025-05-26T08:54:12",
+    "raw_text": "Convert (11010.101)2 binary number into its decimal form.\n",
+    "cleaned_text": "Convert the binary number 11010.101 to its decimal form."
+  },
+  {
+    "timestamp": "2025-05-26T08:56:33",
+    "raw_text": "Write a Python program that creates a class Student with data\nmembers: Name, PRN, and Percentage. Create suitable methods\n\nfor reading and printing student result information,\n",
+    "cleaned_text": "Create a Python class \"Student\" with data members: \n- Name\n- PRN\n- Percentage\nMethods needed: \n- Reading student result information\n- Printing student result information"
+  },
+  {
+    "timestamp": "2025-05-26T08:58:30",
+    "raw_text": "a. List the properties of an algorithm.\nb. Explain Dictionary in Python.\n\nec. Explain Higher order function with suitable example.\n",
+    "cleaned_text": "Here's the extracted important information:\n\n1. List the properties of an algorithm.\n2. Explain Dictionary in Python.\n3. Explain Higher order function with suitable example."
+  },
+  {
+    "timestamp": "2025-05-26T08:59:35",
+    "raw_text": "What are constructors in Python? Explain Default and\n\nParameterized constructors.\n",
+    "cleaned_text": "Constructors in Python: Default and Parameterized constructors."
+  },
+  {
+    "timestamp": "2025-05-26T09:00:07",
+    "raw_text": "Write a Python program to print all the prime numbers within a\n\ngiven range.\n",
+    "cleaned_text": "Write a Python program to print all the prime numbers within a given range."
+  },
+  {
+    "timestamp": "2025-05-26T13:31:28",
+    "raw_text": "=| J. K. ROWLING\n\nHARRY\nPOTTER\n\n» AND THE PHILOSOPHER'S STONE\n\n41 YGLTOd ARIVH\n\nNITMOW\n",
+    "cleaned_text": "J. K. Rowling, Harry Potter and the Philosopher's Stone."
+  },
+  {
+    "timestamp": "2025-05-26T13:31:54",
+    "raw_text": "‘When a letter arrives for unhappy but\nordinary Harry Potter, a decade-old secret\nis revealed to him. Hs penta were\n‘wizards, killed by a Datk Lord’ curse\n‘when Harry was just a baby, and which he\nsomehow survived. Escaping from his\nunbearable Mugele guardians to Hogwarts,\na wizarding school brimming with ghost\nand enchantments, Harry tumbles into 4\nsinister adventure when he finds a three-\nheaded dog guarding a room on the thtd\noor. Then he heats ofa missing tone\n‘with astonishing powers which could be\nvaluable, dangerous, o both\n\nFunny, imaginative, magical. Rowling hat\nwoken up a whole generation ro reading. In\nthe 2020s, thier something book-lovers\nwill know each other by smug references\n\nco Diagon Alley and Quidditch’ The Timez\n\nThis is a terific hook? Sunday Telegraph\n\nHas all the makings ofa case... Rowling\nuses lassie natatve devices with fae and\noriginality and delivers a complex and\ndemanding plot inthe For ofa hugely\nentertaining elle Scotsman\n\n“And you thought wizardry was for\nchildeen. Harry Powe will make you think\n‘again. He casts his spells on grown\n",
+    "cleaned_text": "Harry Potter receives a letter that reveals a decade-old secret: his parents were wizards killed by a Dark Lord's curse when he was a baby, and he somehow survived. He escapes his unbearable guardians to attend Hogwarts, a wizarding school, where he becomes entangled in a sinister adventure involving a three-headed dog, a missing stone with powerful and potentially dangerous abilities. \n\nThe story has been praised for its imaginative and magical elements, with critics noting its complex and demanding plot, as well as its ability to appeal to both children and adults."
+  },
+  {
+    "timestamp": "2025-05-26T13:33:11",
+    "raw_text": "Mr and Mrs Dursley, of number four, Privet Drive, were proud to\nxy that they were perfectly normal, thank you very much They\n‘were the last people youd expect to be involved in anything\nange or mysterious, because they just didnt hold with cuch\n‘Mr Dureley wae the director ofa firm called Gronninge, which\nmade drills. He war a big, beefy man with hardly any neck,\nalthough he id have a very large mouctache. Mrs Dursley W\nthin and blonde ond had nearly fice the usual amount of neck,\n‘hich came in very ucefel a che cpent co much of her time eraning\ntver garden fences, spying om the neighbours. The Durcleye had 3\n\nWU son called Dudley and im their opinion there wae no finer\n‘boy anywhere,\n\n‘The Dursleys had everything they wanted, but they alo had a\nct, and their greatest fear tas that zomebody would discover\nx They didnt think: they could bear it f anyone found out about\nthe Potts, Mrs Potter wae Mrz Durcleys ister, but they hadnt\nret for several years in fact, Mrz Dursley pretended che didn't\n\nster and her good-for-nothing husband\nich ac it war possible to be. The Darley\nlddered to think what the neighbours would aay if the Pott\nsmrved in the ctrect The Dursleye Imew that the Potters had a\non, to, but they had never even zoe him. This boy war\nsnother good reason for keeping the Potter: away; they didn't\n‘want Dudley missing with a child ike that.\n\n‘When Mr and Mrs Dursley woke up on the dull, grey Tueeday’\ncour story start, there was nothing about the cloudy sky outside to\nfggeet that strange and myetenious things would coon be hap-\npening all over the country. Mr Dureley hummed ac he picked out\nfie most boring tie for work and Mre Dureley gossiped away\n\n",
+    "cleaned_text": "Here's the important information extracted from the text:\n\n* Mr. and Mrs. Dursley live at number four, Privet Drive, and consider themselves a normal family.\n* Mr. Dursley is the director of a firm called Grunnings, which makes drills.\n* The Dursleys have a son named Dudley, whom they think is the finest boy anywhere.\n* The Dursleys have a secret: they have a relative, Mrs. Potter (Mrs. Dursley's sister), who they haven't seen in years and try to keep hidden from their neighbors.\n* Mrs. Potter has a son, but the Dursleys have never met him and don't want Dudley to associate with him.\n* The story begins on a dull, grey Tuesday, with hints that strange and mysterious events will soon occur."
+  },
+  {
+    "timestamp": "2025-05-26T13:35:38",
+    "raw_text": "def display_output(text):\n‘Displays text using rich, attempting to highlight markdown code blocks\nif not text:\nconsole.print(\"[italic grey]No text to display.[/italic grey]\")\nreturn\n\n# Pattern to find fenced code blocks (~~~ Lang\\ncode\\n*~\n# Includes the delimiters and potentially Language hint\n# Use non-greedy match ~.*?> and DOTALL flag\n\ncode_block_pattern = re.compile(r\"(>>~(?:\\w+)?\\n.#2>\n\n)\". re.DOTALL)\n\nlast_end = @\nfor match in code_block_pattern.finditer (text):\n# Print text before this match\nif match.start() > last_end:\nconsole. print(text[last_end:match.start()].strip())\n\n# Process the code block\nblock_text = match.group(1)\nlines = block_text.strip().split(*\\n\")\n\n# Check if the block has at Least start and end delimiters\nif len(lines) >= 2 and lines[@].strip().startswith(\"\"~~\") and lines[-1].strip()\n# Extract Language hint from the first Line (e.g., ~~~python)\nfirst_line = lines[0].strip()\nJang_match = re.match(r\"\"~>(\\w+)?\", first_line)\n# Use the matched Language or default to None for auto-detection\nJang = lang_match.group(1) if lang match else None\n\n# Extract code Lines (all Lines between the deLimiters)\ncode = “\\n\".join(lines[1:-11)\n\n",
+    "cleaned_text": "The important information extracted from the text is:\n\n* The function `display_output` displays text using rich and attempts to highlight markdown code blocks.\n* A regular expression pattern `code_block_pattern` is used to find fenced code blocks in the text.\n* The code blocks are processed to:\n\t+ Extract the language hint from the first line (e.g., ~~~python).\n\t+ Extract the code lines (all lines between the delimiters).\n* The extracted code is then joined with newline characters (`\\n`) for further processing."
   }
 ]
